@@ -11,4 +11,4 @@ def test_multiply():
     assert arithmetic.multiply(1, 2) == 2
 
 def test_divide():
-    assert arithmetic.add(1, 2) == 0.5
+    assert arithmetic.divide(1, 2) == 0.5
